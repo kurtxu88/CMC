@@ -52,17 +52,7 @@
         <script type="text/javascript" src='js/init.js'></script>
     </head>
     <body>
-   <!--       SCENARIO          -->
-    //            <div id="scenario_container" class="box">
-	//				<div id="main_content">
-	//					<!-- ************************ CANVAS AREA ****************************** -->
-	//					<div id="iframe">
-	//						<iframe id="target1" src="iframe.htm" scrolling="no"></iframe>
-//
-	//					</div>
-	//					<!-- ************************ CANVAS AREA ****************************** -->
-					</div>
-       //         </div>
+
         <div id="demo_box">
             <!--       DEMO_HEADER       -->
             <div id="demo_box_header">
@@ -200,7 +190,16 @@ inion-disagree" class="emoticon_btn"></div>
 							<div id="public_users_box_body" class="user_box_body">
 								<div class="no_users_online">There are not connected users</div>
 							</div>
+
 						</div>
+						<!--       LOG BOX           -->
+                    				<div id="log_box" class="box">
+                        				<div id="log_box_header">
+                            					<div id="show_hide_log" class="hide">Hide Log</div>
+                           					 <div id="clear_log">Clear Log</div>
+                        				</div>
+                       				<div id="log_box_content" class="log_box_visible"></div>
+                    				</div>
 
 						<!--       DESCRIPTION       -->
 						
@@ -213,14 +212,7 @@ inion-disagree" class="emoticon_btn"></div>
 						
 						<!--	END	\\HERE GOES THE CONTENT OF EACH SPECIFIC DEMO\\			-->
 					</div>
-                    <!--       LOG BOX           -->
-                    <div id="log_box" class="box">
-                        <div id="log_box_header">
-                            <div id="show_hide_log" class="hide">Hide Log</div>
-                            <div id="clear_log">Clear Log</div>
-                        </div>
-                        <div id="log_box_content" class="log_box_visible"></div>
-                    </div>
+                    
 
                 </div>
 
