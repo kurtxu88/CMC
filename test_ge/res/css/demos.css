@@ -306,8 +306,8 @@ textarea{
 
 /*---------------- DEMO_SCENARIO -------------*/
 #log_box{
-    width: 708px;
-    margin-top: 20px;
+	width: 200px;
+	margin-top: 20px;
 	float: left;
 }
 

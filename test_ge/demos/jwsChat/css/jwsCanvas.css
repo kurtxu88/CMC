@@ -24,10 +24,10 @@
 
 iframe{
 	border: none;
-	width: 370px;
-	height: 300px;
-	float: left;
-	margin-right: 0px;
+	width: 300px;
+	height: 600px;
+	float: right;
+	margin-right: 20px;
 }
 
 #iframes.target{
