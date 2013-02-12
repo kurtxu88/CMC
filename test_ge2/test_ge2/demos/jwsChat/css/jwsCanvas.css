@@ -23,11 +23,12 @@
 }
 
 iframe{
-	border: none;
-	width: 370px;
-	height: 300px;
+	border: 1px solid #C8C8C8;
+	width: 505px;
+	height: 290px;
 	float: left;
 	margin-right: 0px;
+	border-radius: 0px 6px 6px 6px;
 }
 
 #iframes.target{

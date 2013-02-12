@@ -306,9 +306,9 @@ textarea{
 
 /*---------------- DEMO_SCENARIO -------------*/
 #log_box{
-    width: 708px;
-    margin-top: 20px;
+	width: 180px;
 	float: left;
+	margin-left: 15px;
 }
 
 
@@ -383,7 +383,7 @@ textarea{
 }
 
 .log_box_visible{
-    height: 200px;
+	height: 250px;
 	overflow: auto !important;
 }
 /*----------------- DEMO_LOG_BOX -------------*/

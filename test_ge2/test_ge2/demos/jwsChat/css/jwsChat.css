@@ -5,7 +5,13 @@
 	/*	border: 1px solid gray;*/
 	padding-top: 10px;
 }
-
+#main_content2{
+	height: 300px;
+	float: left;
+	width: 100%;
+	/*	border: 1px solid gray;*/
+	padding-top: 40px;
+}
 #description_box p{
 	margin: 0px 0 0 12px;
 	padding: 0;
